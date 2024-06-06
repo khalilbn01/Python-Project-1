@@ -1,2 +1,2 @@
 # Python-Projects
-Welcome to my Python Projects repository! This collection showcases a variety of projects I've worked on, highlighting different aspects of Python programming.
+Timed_Math_Challenge.py is an engaging and educational Python project designed to test and improve your math skills under time constraints. The challenge consists of solving 10 math problems as quickly and accurately as possible. At the end of the challenge, your total time taken to solve the problems will be displayed, allowing you to track your performance and aim for improvement.
